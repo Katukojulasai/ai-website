@@ -1,0 +1,38 @@
+*{
+    background-image: url(robo1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    color: white;
+    font-style: oblique;
+    font-weight: 500px;
+    text-align: center;
+}
+h2{
+    color: white;
+    font-style: italic;
+ 
+    
+}
+a{
+    color: white;
+    font-style: oblique;
+    font-weight: 1500px;
+    
+}
+a:hover{
+    color: red;
+} .options {
+    display: none; /* Hide options initially */
+    background-color: #f0f0f0;
+    padding: 10px;
+    border: 1px solid #ccc;
+    position: absolute;
+}
+
+.word {
+    color: blue;
+    cursor: pointer;
+    text-decoration: underline;
+}
